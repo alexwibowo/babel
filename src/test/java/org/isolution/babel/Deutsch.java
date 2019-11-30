@@ -1,5 +1,7 @@
 package org.isolution.babel;
 
 public enum Deutsch {
-    Food
+    Fisch,
+    Kuh,
+    Hähnchen
 }
